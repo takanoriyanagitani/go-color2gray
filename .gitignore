@@ -30,3 +30,5 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/color2gray_approx/color2gray_approx
